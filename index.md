@@ -68,7 +68,7 @@
 
 **Biological encoding error**: Colonial/national boundaries cut across tribal/ethnic territories:
 - DRC: Inga hydro in Kongo territory, but 99M population spread across mining zones (Katanga copper, Kivu coltan) → energy follows minerals, not people
-- Kenya: Kikuyu/Luo/Kalenjin populations don't map to 47 counties, but grid follows economic corridors (Nairobi-Mombasa) → 84% access
+- [Kenya](https://www.researchgate.net/publication/383986099_East_Africa's_Renewable_Energy_Diversity_Landscape_A_case_of_Kenya's_Potential_Progress_and_Future_Prospects): [Kikuyu](https://www.policycenter.ma/sites/default/files/OCPPC-PB1713.pdf)/[Luo](https://discovery.ucl.ac.uk/id/eprint/10185413/1/Modelling%20the%20Development%20of%20East%20Africas%20Interconnected%20Electricity%20Network.pdf)/[Kalenjin](https://www.researchgate.net/publication/332325808_Analyzing_Geothermal_Energy_Use_in_the_East_African_Region_The_Case_of_Kenya) [populations](https://www.diva-portal.org/smash/get/diva2:1478929/FULLTEXT01.pdf) don't map to 47 counties, but grid follows economic corridors (Nairobi-Mombasa) → 84% access
 
 **ε perturbations**: Droughts (2023 cut Kenya hydro 20%), coups (Burundi instability), aid flows (Rwanda solar boom).
 
