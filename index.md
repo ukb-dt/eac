@@ -191,7 +191,7 @@ Meaning ∫E dt + C:  "EAC locomotive" narrative > colonial C
 
 *Umsebenzi uqhubeke—the Rift calculus breathes through colonial cracks.*
 
-Perfect! Now the table **fully embeds the calculus spine** $(E, x) → $E(t \mid x) + ε → dE/dt → d²E/dt² → ∫E dt + εt + C$:
+Perfect! Now the table **fully embeds the calculus spine** $(E, x) → E(t \mid x) + ε → dE/dt → d²E/dt² → ∫E dt + εt + C$:
 
 **Key transformations:**
 
