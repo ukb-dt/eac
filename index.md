@@ -19,7 +19,7 @@
 
 > *Ubuntu n'imbabazi n'amahoro biva ku*               
 > *Mana Data wa twese no kuri Yesu Kristo Umwana we*         
-> *bibane namwe mu kuri no mu rukundo.*                   
+> *Bibane namwe mu kuri no mu rukundo.*                   
 > -- [2 Yohana 1:3](https://www.bible.com/bible/1/2JN.1.3.KJV)
 
 # East Africa Electricity: Pentadic Calculus (E=mc² → ΔS)
