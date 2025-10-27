@@ -1,3 +1,23 @@
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
+
 # East Africa Electricity: Pentadic Calculus (E=mc² → ΔS)
 
 ## Core ukb-Fractal Pentad (Energy Calculus Spine)
@@ -171,17 +191,17 @@ Meaning ∫E dt + C:  "EAC locomotive" narrative > colonial C
 
 *Umsebenzi uqhubeke—the Rift calculus breathes through colonial cracks.*
 
-Perfect! Now the table **fully embeds the calculus spine** (E, x) → E(t|x) + ε → dE/dt → d²E/dt² → ∫E dt + εt + C:
+Perfect! Now the table **fully embeds the calculus spine** $(E, x) → $E(t \mid x) + ε → dE/dt → d²E/dt² → ∫E dt + εt + C$:
 
 **Key transformations:**
 
 1. **Symbol = Calculus Stage**: Each country maps to one derivative level
-   - Burundi (θ′) = (E, x): Raw physical potential, no flow
-   - Rwanda (θ) = E(t|x) + ε: Conditional energy + aid perturbations
-   - Uganda (Σ) = dE/dt: Growth rate, export trunk
-   - Tanzania (h(t)) = d²E/dt²: Acceleration, fastest curve
+   - Burundi (θ′) = $(E, x)$: Raw physical potential, no flow
+   - Rwanda (θ) = $E(t \mid x) + ε$: Conditional energy + aid perturbations
+   - Uganda (Σ) = $dE/dt$: Growth rate, export trunk
+   - Tanzania (h(t)) = %d²E/dt²$: Acceleration, fastest curve
    - Kenya (Σ+h(t)) = Rate + curvature combined
-   - DRC (ΔS) = ∫E dt + C: Integral frozen by colonial constant
+   - DRC (ΔS) = $∫E dt + C$: Integral frozen by colonial constant
 
 2. **C as Stage 2 encoding error**: Colonial boundaries at Biological→Social transition:
    - DRC: Leopold's rubber borders → Inga sits in wrong ethnic territory → 19% access
