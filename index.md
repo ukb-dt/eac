@@ -199,7 +199,7 @@ Perfect! Now the table **fully embeds the calculus spine** $(E, x) → E(t \mid 
    - Burundi (θ′) = $(E, x)$: Raw physical potential, no flow
    - Rwanda (θ) = $E(t \mid x) + ε$: Conditional energy + aid perturbations
    - Uganda (Σ) = $dE/dt$: Growth rate, export trunk
-   - Tanzania (h(t)) = %d²E/dt²$: Acceleration, fastest curve
+   - Tanzania (h(t)) = $d²E/dt²$: Acceleration, fastest curve
    - Kenya (Σ+h(t)) = Rate + curvature combined
    - DRC (ΔS) = $∫E dt + C$: Integral frozen by colonial constant
 
