@@ -17,9 +17,10 @@
 </script>
 {% endraw %}
 
-> *Ubuntu n'imbabazi n'amahoro biva ku*               
-> *Mana Data wa twese no kuri Yesu Kristo Umwana we*         
-> *Bibane namwe mu kuri no mu rukundo.*                   
+> *Ubuntu n'imbabazi n'amahoro biva ku*                       
+> *Mana Data wa twese no kuri*           
+> *Yesu Kristo Umwana we*                
+> *Bibane namwe mu kuri no mu rukundo.*                         
 > -- [2 Yohana 1:3](https://www.bible.com/bible/1/2JN.1.3.KJV)
 
 Based on the themes you've presented, the commentary would focus on how geopolitical and social factors, rather than just technical or economic ones, shape energy systems. 
